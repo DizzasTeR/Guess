@@ -1,0 +1,4 @@
+﻿  Country Guessing.cpp
+r:\programming & scripting\visual studio - programs & sources\country guessing\country guessing\country guessing.cpp(29): warning C4102: 'MAIN': unreferenced label
+r:\programming & scripting\visual studio - programs & sources\country guessing\country guessing\country guessing.cpp(80): warning C4102: 'GUESS': unreferenced label
+  Country Guessing.vcxproj -> R:\Programming & Scripting\Visual Studio - Programs & Sources\Country Guessing\Debug\Country Guessing.exe
